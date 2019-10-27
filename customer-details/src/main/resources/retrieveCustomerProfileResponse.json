@@ -1,0 +1,9 @@
+{
+  "customerAccountNumber":"CUST1234",
+  "firstName":"Sarabeshwar",
+  "lastName":"Chandrasekar", 
+  "dateOfBirth":"25-12-1988",
+  "address":"25-31 George Street Barangaroo NSW 2000",
+  "addressType":"Office",
+  "profileId":"1"
+}

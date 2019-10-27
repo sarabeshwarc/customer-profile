@@ -1,0 +1,12 @@
+{
+  "createdDate": "24-10-2019",
+  "customerAccountNumber": "CUST1234",
+  "inactiveDate": "26-10-2019",
+  "profileId": "1",
+  "profileStatus": "unenroller",
+  "statusMessage": {
+    "statusCode": 200,
+    "statusDescription": "User Unenrolled Successfully"
+  },
+  "tenure": 4
+}

@@ -1,0 +1,11 @@
+{
+	"status": "success",
+	"customerProfile": {
+		"profileId": 1,
+		"status": "enrolled",
+		"accountNumber": "CUST1234",
+		"tenure": 3,
+		"createdDate": "2019-10-23T16:35:12",
+		"changeDate": "2019-10-23T16:35:12"
+	}
+}

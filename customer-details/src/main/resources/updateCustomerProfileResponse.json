@@ -1,0 +1,8 @@
+{
+  "customerAccountNumber": "CUST1234",
+  "profileId": "1",
+  "statusMessage": {
+    "statusCode": 200,
+    "statusDescription": "Success"
+  }
+}
